@@ -2,12 +2,12 @@
 
 # Starting
 
-# image.png
+image.png
 
 # Game
 
-# image.png
+image.png
 
 # End Game
 
-# image.png
+image.png
